@@ -5,7 +5,7 @@ body{
 
 .news-block{
 	width:75%;
-	height: 240px;
+	height: 270px;
 	border:1px solid red;
 	display: table;
 	float: left;
@@ -28,4 +28,20 @@ body{
 	float: left;
 	background-color: #9aa590;
 	margin-top:-23px;
+}
+.news-two{
+	width:75%;
+	height: 320px;
+	border: 1px solid black;
+	float:left;
+	background-color: #dae5d0;
+}
+.news-two p {
+	margin-left: 340px;
+	position: relative;
+	top:-200px;
+}
+.news-two a{
+	float: right;
+	margin-top: -150px;
 }

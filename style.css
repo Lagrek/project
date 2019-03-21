@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.news-block{
+	width:75%;
+	height: 240px;
+	border:1px solid red;
+	display: table;
+	float: left;
+	background-color: #dae5d0;
+}
+.news-block p{
+	margin-left:340px;
+	position: relative;
+	top:-200px;
+}
+.news-block a{
+	float: right;
+	margin-top: -150px;
+}
+.news-text{
+	width:75%;
+	height:100px;
+	text-align: center;
+	border:1px solid black;
+	float: left;
+	background-color: #9aa590;
+	margin-top:-23px;
+}

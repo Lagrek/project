@@ -14,9 +14,14 @@ body{
 .news-block a:hover{
 	color:#ce0220;
 }
-.news-block h6{
+.news-block h3{
 	margin-top: -5px;
 	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+}
+.news-block img{
+	width:330px;
+	height:200px;
 }
 .news-one{
 	width:330px;
@@ -49,11 +54,10 @@ body{
 	text-decoration: none;
 	color:inherit;
 	margin-top:25px;
-
 }
 .news p{
-	float:left;
-	margin-top: -3px;
+	float:right;
+	margin-top: 5px;
 	font-family: 'Roboto', sans-serif;
 }
 .news h6{
@@ -70,21 +74,20 @@ body{
 	display: table;
 	background-color: #c9c9c9;
 }
-.banners h6{
+.banners h3{
 	font-family: 'PT Sans', sans-serif;
 	text-align: center;
 }
 .banner-one{
 	width:300px;
-	height:265px;
+	height:250px;
 	float:left;
-	margin-left: 3%;
-	margin-top: 50px;
-	background-color: white;
+	margin-left: 7.5%;
+	margin-top: 20px;
 }
 .banner-one img{
 	width:300px;
-	height: 200px;
+	height:192px;
 }
 .banner-one a{
 	font-family: 'Roboto', sans-serif;
@@ -97,15 +100,15 @@ body{
 }
 .banner-two{
 	width:300px;
-	height:265px;
+	height:250px;
 	float:left;
-	margin-left: 3%;
-	margin-top: 50px;
-	background-color: white;
+	margin-left: 7.5%;
+	margin-top: 20px;
+
 }
 .banner-two img{
 	width:300px;
-	height: 200px;
+	height: 196px;
 }
 .banner-two a{
 	font-family: 'Roboto', sans-serif;
@@ -118,15 +121,14 @@ body{
 }
 .banner-three{
 	width:300px;
-	height:265px;
+	height:250px;
 	float:left;
-	margin-left: 3%;
-	margin-top: 50px;
-	background-color: white;
+	margin-left: 7.5%;
+	margin-top: 20px;
 }
 .banner-three img{
 	width:300px;
-	height: 200px;
+	height: 196px;
 }
 .banner-three a {
 	font-family: 'Roboto', sans-serif;
@@ -139,15 +141,14 @@ body{
 }
 .banner-four{
 	width:300px;
-	height:265px;
+	height:250px;
 	float:left;
-	margin-left: 3%;
-	margin-top: 50px;
-	background-color: white;
+	margin-left: 7.5%;
+	margin-top: 20px;
 }
 .banner-four img{
 	width:300px;
-	height: 200px;
+	height: 196px;
 }
 .banner-four a {
 	font-family: 'Roboto', sans-serif;

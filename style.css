@@ -73,6 +73,8 @@ body{
 	width:100%;
 	display: table;
 	background-color: #c9c9c9;
+	border-top:1px solid gray;
+	border-bottom: 1px solid gray;
 }
 .banners h3{
 	font-family: 'PT Sans', sans-serif;

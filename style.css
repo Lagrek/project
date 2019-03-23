@@ -5,7 +5,6 @@ body{
 .news-block{
 	width:100%;
 	display: table;
-	border:1px solid black;
 }
 .news-block a{
 	font-family: 'Roboto', sans-serif;
@@ -16,14 +15,12 @@ body{
 	color:#ce0220;
 }
 .news-block h6{
-	float:left;
 	margin-top: -5px;
 	font-family: 'PT Sans', sans-serif;
 }
 .news-one{
 	width:330px;
 	height:250px;
-	border:1px solid red;
 	float:left;
 	margin-left:4.5%;
 	margin-top: 50px;
@@ -41,7 +38,6 @@ body{
 .news{
 	width: 350px;
 	height: 200px;
-	border:1px solid red;
 	float:left;
 	margin-left: 5%;
 	margin-top: 50px;
@@ -69,8 +65,96 @@ body{
 .news a:hover{
 	color:#ce0220;
 }
-.banners-health{
+.banners{
 	width:100%;
 	display: table;
-	border:1px solid orange;
+	background-color: #c9c9c9;
+}
+.banners h6{
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+}
+.banner-one{
+	width:300px;
+	height:265px;
+	float:left;
+	margin-left: 3%;
+	margin-top: 50px;
+	background-color: white;
+}
+.banner-one img{
+	width:300px;
+	height: 200px;
+}
+.banner-one a{
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	color:inherit;
+	text-align: center;
+}
+.banner-one a:hover{
+	color:#ce0220;
+}
+.banner-two{
+	width:300px;
+	height:265px;
+	float:left;
+	margin-left: 3%;
+	margin-top: 50px;
+	background-color: white;
+}
+.banner-two img{
+	width:300px;
+	height: 200px;
+}
+.banner-two a{
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	color:inherit;
+	text-align: center;
+}
+.banner-two a:hover{
+	color:#ce0220;
+}
+.banner-three{
+	width:300px;
+	height:265px;
+	float:left;
+	margin-left: 3%;
+	margin-top: 50px;
+	background-color: white;
+}
+.banner-three img{
+	width:300px;
+	height: 200px;
+}
+.banner-three a {
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	color:inherit;
+	text-align: center;
+}
+.banner-three a:hover{
+	color:#ce0220;
+}
+.banner-four{
+	width:300px;
+	height:265px;
+	float:left;
+	margin-left: 3%;
+	margin-top: 50px;
+	background-color: white;
+}
+.banner-four img{
+	width:300px;
+	height: 200px;
+}
+.banner-four a {
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	color:inherit;
+	text-align: center;
+}
+.banner-four a:hover{
+	color:#ce0220;
 }

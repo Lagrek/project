@@ -14,10 +14,20 @@ body{
 .news-block a:hover{
 	color:#ce0220;
 }
-.news-block h3{
-	margin-top: -5px;
+.news-block-name{
+	width:400px;
+	height:100px;
+	margin-top:-35px;
+}
+.news-block-name h5{
+	float:left;
+	margin-left: 3%;
+	margin-top: 48px;
 	font-family: 'PT Sans', sans-serif;
-	text-align: center;
+}
+.news-block h3{
+	float:left;
+	border-right: 1px solid gray;
 }
 .news-block img{
 	width:330px;

@@ -12,5 +12,6 @@ $(document).ready(function(){
     captions: true,
     auto: true,
     pause: 5000,
+    controls: false,
   });
   });
